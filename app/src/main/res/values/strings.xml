@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice-Roller-App</string>
+    <string name="roll">roll</string>
+    <string name="todo">TODO</string>
+</resources>
